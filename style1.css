@@ -1,0 +1,42 @@
+h1{
+   text-align: center;
+   color: darkblue;
+} 
+.top{
+    font-size: 3em;
+    color:darkblue;
+    padding:1em 6em 1em 6em;
+    background-color: lightblue;
+
+}
+
+table{
+   margin: auto;
+   border-collapse: collapse;
+}
+td, th{
+   border: skyblue 5px solid;
+   width: 85%;
+   height: 85px;
+   text-align: center;
+}
+td{
+   vertical-align: bottom;
+   font-family: initial;
+}
+
+.france{
+    background-image:url("france.jpg");
+   background-size: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30%;
+
+}
+.usa{
+    background-image:url("usa.jpg");
+   background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30%;
+}
